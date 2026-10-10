@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-forest: #166534;
+    --color-evergreen: #12372A;
+    --color-emerald: #22C55E;
+    --color-mint: #DCFCE7;
+    --color-canvas: #F5FAF4;
+    --color-warm-white: #FCFDF9;
+    --color-text-main: #17231D;
+    --color-text-muted: #647067;
+  }
+
+  body {
+    font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+    background-color: #F5FAF4;
+    color: #17231D;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    letter-spacing: -0.02em;
+  }
+}

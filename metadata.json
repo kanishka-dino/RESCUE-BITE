@@ -1,0 +1,6 @@
+{
+  "name": "RescueBite",
+  "description": "Connecting surplus food with communities in need. A premium, safe, and transparent food donation and redistribution platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
