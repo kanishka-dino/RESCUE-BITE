@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RescueBite — Food Rescue & Redistribution Platform
 
 RescueBite is a sustainability platform connecting restaurants, hotels, bakeries, corporate cafeterias, and event organizers with verified NGOs, community kitchens, orphanages, and charitable shelters. The platform facilitates safe, transparent, and dignified food redistribution to eliminate food waste and reduce community food insecurity.
@@ -106,3 +107,7 @@ The frontend is architected to transition from reactive in-memory/localStorage m
 - [x] Interactive claims, listing creation, and verification state updates persist across page reloads.
 - [x] Spring Boot API modal with Java controllers, MySQL schema, and Axios integration documentation.
 - [x] TypeScript compilation passes with zero errors.
+=======
+# RESCUE-BITE
+RescueBite is a food donation and redistribution platform that connects restaurants, hotels, and individuals with NGOs and people in need. It helps reduce food waste by ensuring surplus food reaches hungry people safely and efficiently.
+>>>>>>> 4c6f367477ddeb587f9a320471faaeede1f20e66
